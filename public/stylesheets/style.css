@@ -1,0 +1,103 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+input{
+    border-radius: 3px;
+    border: 1px solid grey;
+    resize: both;
+    background-color: tan;
+    height: 250px;
+    width: 600px;
+    margin-left:40px ;
+}
+#buttons{
+    padding-left: 225px;
+}
+button{
+    border: 1px solid black;
+    background-color: orange;
+}
+
+table{
+    border-collapse: collapse;
+}
+#tabletitle{
+    color:white;
+    border: 1px solid orange;
+    background-color: green;
+}
+
+div#content{
+    align-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h2{
+    color: white;
+}
+
+body{
+    background-color: #3d3d3d;
+}
+
+hr#stop{
+    width: 100%;
+    overflow-x: hidden;
+    color: grey;
+    background-color: grey;
+}
+
+p, ol{
+    color: white;
+}
+
+a{
+    color: tan;
+    text-decoration: none;
+}
+
+#ad{
+    background-color: black;
+    border-top-style: dotted;
+}
+
+#ad > p, footer > p, #down > p{
+    color: grey;;
+}
+
+hr#line2{
+    border: 2px solid darkorange;
+}
+
+#down{
+    float: right;
+}
+
+#border1{
+    border-left: 1px solid grey;
+}
+
+#border2{
+    color: white;
+    border-right: 1px solid grey;
+}
+
+th, td{
+    padding: 5px;
+}
+
+tr#orange{
+    border-bottom: 1px solid orange;
+}
+
+#last{
+    margin-left:  30px;
+    float: right;
+}
